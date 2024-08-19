@@ -1,0 +1,49 @@
+#AppList {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+ #AppList td, #AppList th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    
+  }
+  
+ #AppList tr:nth-child(even){background-color: #f2f2f2;}
+  
+ #AppList tr:hover {background-color: #ddd;}
+  
+
+#AppList th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  #AppList td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: lightgray #04AA6D;
+    color: black;
+   }  
+
+
+
+/* td {
+    background-color: black;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: Left;
+    justify-content: Left;
+    font-size: calc(10px + 2vmin);
+    color: green;
+   } */

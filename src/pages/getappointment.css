@@ -1,0 +1,9 @@
+.GetAppointment click message {
+    border: 1px solid #ddd;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: red;
+    color: pink;
+  }
